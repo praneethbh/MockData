@@ -3,7 +3,11 @@
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    { "id": 1, "name": "Apple MacBook Pro"},
+    { "id": 2, "name": "iPhone X"},
+    { "id": 3, "name": "Dell Laptop"},
+    { "id": 4, "name": "Dell Desktop"},
+    { "id": 5, "name": "Apple iPad Pro"}
   ],
   "profile": { "name": "typicode" }
 }
