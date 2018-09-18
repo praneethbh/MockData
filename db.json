@@ -1,32 +1,22 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "title": "Post 1",
+	"name": "Apple Macbook Pro"
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "title": "Post 2",
+	"name": "Apple iPhone"
   },
   {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "id": 3,
+    "title": "Post 3",
+	"name": "Dell laptop"
   },
   {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-  },
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "id": 4,
+    "title": "Post 4",
+	"name": "Dell Desktop"
   }
 ]
