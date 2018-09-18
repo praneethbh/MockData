@@ -1,22 +1,9 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1",
-	"name": "Apple Macbook Pro"
-  },
-  {
-    "id": 2,
-    "title": "Post 2",
-	"name": "Apple iPhone"
-  },
-  {
-    "id": 3,
-    "title": "Post 3",
-	"name": "Dell laptop"
-  },
-  {
-    "id": 4,
-    "title": "Post 4",
-	"name": "Dell Desktop"
-  }
-]
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
