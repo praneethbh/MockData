@@ -3,12 +3,14 @@
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
   "comments": [
-    { "id": 1, "name": "Apple MacBook Pro"},
-    { "id": 2, "name": "iPhone X"},
-    { "id": 3, "name": "Dell Laptop"},
-    { "id": 4, "name": "Dell Desktop"},
-    { "id": 5, "name": "Apple iPad Pro"},
-    { "id": 5, "name": "Printer"}
+	  { resourceName1 : 'Macbook Pro', resourceName2 : '74859654'},
+	  { resourceName1 : 'iPhone X', resourceName2 : '14253685'},
+	  { resourceName1 : 'Dell Desktop', resourceName2 : '10204156'},
+	  { resourceName1 : 'Dell Laptop', resourceName2 : '36521469'},
+	  { resourceName1 : 'Dell Mouse', resourceName2 : '85749636'},
+	  { resourceName1 : 'Dell Keyboard', resourceName2 : '58693625'},
+	  { resourceName1 : 'HP Laptop', resourceName2 : '25146974'},
+	  { resourceName1 : 'Apple Ipad Pro', resourceName2 : '74418552'}
   ],
   "profile": { "name": "typicode" }
 }
